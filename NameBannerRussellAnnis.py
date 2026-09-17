@@ -1,0 +1,8 @@
+print("R R R R R                            U                        U                   S S S S S S            S S S S S S                              A            ")
+print("R               R                         U                        U                   S                            S                                             AA          ")
+print("R                 R                       U                        U                   S                            S                                           A    A        ")
+print("R                R                        U                        U                   S S S S S               S SS S S                              A        A      ")
+print("R R R R R                            U                        U                                S                           S                            A A A A A    ")
+print("R             R                            U                     U                                  S                           S                           A                A  ")
+print("R                R                           U                 U                                    S                           S                          A                   A ")
+print("R                  R                           U U U U U                          S S S S S               S S S S S                        A                       A")
